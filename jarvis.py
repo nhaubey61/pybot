@@ -1,3 +1,4 @@
+#Python Bot for linux
 from tkinter import *
 import cv2
 import PIL.Image, PIL.ImageTk
